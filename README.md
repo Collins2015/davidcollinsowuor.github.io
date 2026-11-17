@@ -1,22 +1,22 @@
-# Personal website — GitHub Pages
+# David Collins Owuor — personal website (GitHub Pages)
 
 A responsive, one-page personal profile website built with plain HTML, CSS and JavaScript. No build tools or paid hosting are required.
 
+**Live URL (once published):** `https://davidcollinsowuor.github.io/`
+
 ## 1. Personalise the site
 
-Before publishing, edit `index.html`:
-- Replace **Your Name** with your preferred public name.
-- Update the biography and research themes.
+The display name is already set to **David Collins Owuor**. Before publishing, still edit `index.html`:
 - Replace `your.email@example.com` with your public contact email.
-- Add your actual LinkedIn and GitHub profile URLs.
-- Add links to publications, projects, ORCID or institutional profile if desired.
+- Add your actual LinkedIn and ORCID profile URLs (GitHub is already set to `https://github.com/davidcollinsowuor`).
+- Add links to publications, projects or institutional profile if desired.
 
 You can adjust colours, fonts and spacing in `styles.css`.
 
 ## 2. Create your GitHub Pages repository
 
 1. Sign in to GitHub.
-2. Create a **public** repository named exactly `YOUR-GITHUB-USERNAME.github.io`.
+2. Create a **public** repository named exactly `davidcollinsowuor.github.io`.
 3. Upload `index.html`, `styles.css`, `script.js` and this README to the repository root.
 4. Open the repository's **Settings → Pages**.
 5. Under **Build and deployment**, choose **Deploy from a branch**.
@@ -24,7 +24,7 @@ You can adjust colours, fonts and spacing in `styles.css`.
 
 Your site will be published at:
 
-`https://YOUR-GITHUB-USERNAME.github.io/`
+`https://davidcollinsowuor.github.io/`
 
 It may take a few minutes for the first deployment. Subsequent changes are published when you commit them.
 
